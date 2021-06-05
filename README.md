@@ -2,7 +2,9 @@
 # About The Project
 <p align="center">
     <img src='/public/images/tesla.jpg' alt='tesla-clone' 
-    width="80" height="80"/>
+    width="180" height="180"/>
+    <img src='/public/images/tesla-1.jpg' alt='tesla-clone' 
+    width="180" height="180"/>
 </p>
 
 The project its about The TESLA-CLONE front-end . A good practice for using styled components and redux-toolkit in your projects. 
