@@ -1,7 +1,9 @@
 
 # About The Project
-
-![Tesla-clone](/images/tesla.jpg)
+<p align="center">
+    <img src='/public/images/tesla.jpg' alt='tesla-clone' 
+    width="80" height="80"/>
+</p>
 
 The project its about The TESLA-CLONE front-end . A good practice for using styled components and redux-toolkit in your projects. 
 
@@ -16,12 +18,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Installation
 
 1. Clone the repo in your terminal:<br />
+
     `git clone https://github.com/hudarahma/tesla-clone.git`
 
 2. Install NPM packages<br />
+
     `npm install`
 
 3. Start the project with:<br />
+
     `npm start`
 
 ### `npm start`
