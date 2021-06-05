@@ -1,8 +1,28 @@
+
+# About The Project
+
+![Tesla-clone](/images/tesla.jpg)
+
+The project its about The TESLA-CLONE front-end . A good practice for using styled components and redux-toolkit in your projects. 
+
+## Built With
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
-## Available Scripts
 
-In the project directory, you can run:
+# Getting Started
+
+ A few simple steps, you can set up the project:
+## Installation
+
+1. Clone the repo in your terminal:
+    `git clone https://github.com/hudarahma/tesla-clone.git`
+
+2. Install NPM packages
+    `npm install`
+
+3. Start the project with:
+    `npm start`
 
 ### `npm start`
 
